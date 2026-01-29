@@ -1,0 +1,3 @@
+1000,Food
+60,Chapathi
+10000,Travel
