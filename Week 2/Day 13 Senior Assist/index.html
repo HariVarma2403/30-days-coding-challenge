@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Senior Assist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2563eb">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>👴 Senior Assist</h1>
+
+    <div class="clock" id="clock"></div>
+
+    <section class="card">
+        <h2>💊 Medicine Reminder</h2>
+        <input id="medName" placeholder="Medicine name">
+        <select id="medTime">
+            <option>Morning</option>
+            <option>Afternoon</option>
+            <option>Night</option>
+        </select>
+        <button onclick="addMedicine()">Add</button>
+
+        <ul id="medicineList"></ul>
+    </section>
+
+    <section class="card">
+        <h2>🚨 Emergency Call</h2>
+        <a href="tel:9876543210" class="call-btn">📞 Call Son</a>
+        <a href="tel:9876543211" class="call-btn">📞 Call Doctor</a>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
