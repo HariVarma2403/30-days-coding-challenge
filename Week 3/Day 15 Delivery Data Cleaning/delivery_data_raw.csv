@@ -1,0 +1,20 @@
+order_id	order_date	city	restaurant	customer_id	order_value	delivery_time	delivery_status	payment_method
+1001	01-01-2024	Bangalore	Foodies Hub	C101	450	32	Delivered	UPI
+1001	01-01-2024	Hyderabad	Spice Villa	C102	300	45	Delivered	Cash
+1001	02-01-2024	Bangalore	Urban Bites	C103	299	60	Late	Card
+1001	02-01-2024	Chennai	Foodies Hub	C104	520		Delivered	UPI
+1001	03-01-2024	Hyderabad	Spice Villa	C105	180	28	Delivered	
+1001	03-01-2024	Bangalore	Urban Bites	C106	2501	55	Late	Card
+1001	04-01-2024	Chennai	Tasty Treats	C107	650	35	Delivered	Cash
+1001	04-01-2024	Bangalore	Foodies Hub	C108	390	70	Late	UPI
+1001	05-01-2024	Hyderabad	Spice Villa	C109	250	40	Delivered	Card
+1001	05-01-2024	Chennai	Tasty Treats	C110	300	30	Delivered	Cash
+1001	06-01-2024	Bangalore	Urban Bites	C111	555	50	Late	UPI
+1001	06-01-2024	Hyderabad	Spice Villa	C112	400	45	Delivered	Cash
+1001	07-01-2024	Chennai	Foodies Hub	C113	350	25	Delivered	Card
+1001	07-01-2024	Bangalore	Urban Bites	C114	895	60	Late	UPI 
+1001	08-01-2024	Hyderabad	Spice Villa	C115	220	30	Delivered	Cash
+1001	08-01-2024	Chennai	Tasty Treats	C116	480	40	Delivered	Card
+1001	09-01-2024	Bangalore	Foodies Hub	C117	569	55	Late	UPI
+1001	09-01-2024	Hyderabad	Spice Villa	C118	350	35	Delivered	Cash
+1001	10-01-2024	Chennai	Tasty Treats	C119	600	45	Delivered	Card  
